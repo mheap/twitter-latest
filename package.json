@@ -12,7 +12,7 @@
     "bottleneck": "^2.16.2",
     "cli-table3": "^0.5.1",
     "dotenv": "^6.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "twitter": "^1.7.1"
   },
   "bin": {
